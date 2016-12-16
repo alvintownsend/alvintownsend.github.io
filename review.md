@@ -15,9 +15,9 @@
   * but still tries new things, just a little more carefully
 * has missed only one phone call from the DOC in 5+ years at Turner:
   * even answered the DOC while on vacation:
-    * in Switzerland:
-      * on Mount Pfannenstiel:
-        * on a giant Aussichtsturm.
+  * in Switzerland:
+  * on Mount Pfannenstiel:
+  * on a giant Aussichtsturm.
 * is always available when a problem arises, neither snow nor rain nor heat nor gloom of night
 * and is always available to help team members with their problems:
   * sometimes by providing the answer
