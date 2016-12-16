@@ -1,7 +1,7 @@
 # Alvin's 2016 Review
 16 December 2016
 
-### Alvin:
+### Alvin
 
   * builds and maintains relationships with other team managers and members
   * learns the strengths and weaknesses of the teams and people around Turner
@@ -13,6 +13,7 @@
   * puts a premium on choosing technology that improves stability, support, and ease of maintenance
   * is completely and totally unimpressed with shiny new _unproven_ technology
     * but still tries new things, just a little more carefully
+  * is loyal to his team and obsessed with doing things the right way
   * has missed only one phone call from the DOC in 5+ years at Turner:
     + even answered the DOC while on vacation:
       * in Switzerland:
@@ -23,4 +24,5 @@
     * sometimes by providing the answer
     * sometimes by providing guidance
     * sometimes by providing neither
+  * enjoys his job
   * likes bullet points
