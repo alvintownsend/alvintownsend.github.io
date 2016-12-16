@@ -13,7 +13,7 @@
     * more quickly
   * puts a premium on choosing technology that improves stability, support, and ease of maintenance
   * serves as a watchdog against reckless adoption of unnecessary technologies and dependencies:
-      * is unimpressed with shiny new _unproven_ technology:
+      * is unimpressed with shiny new unproven technology:
         * but still tries new things, just a little more carefully
   * is loyal to his team and obsessed with doing things the right way
   * has missed only one phone call from the DOC in 5+ years at Turner:
